@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "ActivityDB": {
+    "host": "localhost",
+    "port": 3307,
+    "url": "",
+    "database": "ActivityDB",
+    "password": "root",
+    "name": "ActivityDB",
+    "user": "admin",
+    "connector": "mysql"
+  }
+}

@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "ActivityDB": {
+    "host": "",
+    "port": 0,
+    "url": "postgres://ssnxguxjammwcc:8333ab30cb8c53a777b7d661b146d0ba3859bf0bd7da6b64a23a3de38f1934e4@ec2-54-225-200-15.compute-1.amazonaws.com:5432/d1ju4o2ej7g5ff",
+    "database": "",
+    "password": "",
+    "name": "ActivityDB",
+    "user": "",
+    "connector": "postgresql"
   }
 }

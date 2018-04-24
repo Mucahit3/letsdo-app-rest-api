@@ -4,13 +4,25 @@
     "connector": "memory"
   },
   "ActivityDB": {
-    "host": "",
-    "port": 0,
+    "host": "ec2-54-225-200-15.compute-1.amazonaws.com",
+    "port": 5432,
     "url": "postgres://ssnxguxjammwcc:8333ab30cb8c53a777b7d661b146d0ba3859bf0bd7da6b64a23a3de38f1934e4@ec2-54-225-200-15.compute-1.amazonaws.com:5432/d1ju4o2ej7g5ff",
-    "database": "",
-    "password": "",
+    "database": "d1ju4o2ej7g5ff",
+    "password": "8333ab30cb8c53a777b7d661b146d0ba3859bf0bd7da6b64a23a3de38f1934e4",
     "name": "ActivityDB",
-    "user": "",
+    "user": "ssnxguxjammwcc",
     "connector": "postgresql"
   }
 }
+
+
+// "ActivityDB": {
+//     "host": "ec2-54-225-200-15.compute-1.amazonaws.com",
+//     "port": 5432,
+//     "url": "postgres://ssnxguxjammwcc:8333ab30cb8c53a777b7d661b146d0ba3859bf0bd7da6b64a23a3de38f1934e4@ec2-54-225-200-15.compute-1.amazonaws.com:5432/d1ju4o2ej7g5ff",
+//     "database": "d1ju4o2ej7g5ff",
+//     "password": "8333ab30cb8c53a777b7d661b146d0ba3859bf0bd7da6b64a23a3de38f1934e4",
+//     "name": "ActivityDB",
+//     "user": "ssnxguxjammwcc",
+//     "connector": "postgresql"
+//   }
